@@ -1,0 +1,30 @@
+.reviewbody{
+    width: 960px;
+    margin-top: 30px;
+    min-height: 100px;
+    
+    padding-bottom: 30px;
+    margin-left: 115px;
+    margin-right: 115px;
+    display: grid;
+    grid-template-columns:75px 1fr ;
+}
+.review_avatar{
+    width: 75px;
+    height: 75px;
+    background-color:aqua;
+    border-radius:100%;
+    /* border: 3px solid #8467FE; */
+
+}
+.review_desc{
+    margin-left: 29px;
+}
+.review_user_name{
+    font-size: 20px;
+    font-weight: 600;
+}
+.review_text{
+    margin-top: 20px;
+    font-size: 16px;
+}

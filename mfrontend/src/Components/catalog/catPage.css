@@ -1,0 +1,24 @@
+.cat_page1{
+    width: 1200px;
+    height: 100%;
+    background-color: #fff;
+    margin: 45px auto;
+    border-radius: 40px;
+    padding-top: 1px;
+    display: grid;
+
+ 
+}
+
+.cat_page1 h1{
+    
+    text-align: left;
+    margin-left: 60px;
+    margin-top: 30px;
+}
+
+.cat_prod_section1{
+    display: grid;
+    grid-template-columns:1fr 1fr 1fr 1fr;
+   
+}

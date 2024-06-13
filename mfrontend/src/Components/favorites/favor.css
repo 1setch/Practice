@@ -1,0 +1,34 @@
+.favorbody{
+    width: 1200px;
+    height: 100%;
+    background-color: #fff;
+    margin: 45px auto;
+    border-radius: 40px;
+    padding-top: 1px;
+    padding-bottom: 1px;
+    min-height: 600px;
+ 
+}
+.favorbody2{
+    width: 1200px;
+    height: 1000px;
+    background-color: #fff;
+    margin: 45px auto;
+    border-radius: 40px;
+    padding-top: 1px;
+    padding-bottom: 1px;
+
+ 
+}
+.favorbody h1{
+    
+    text-align: left;
+    margin-left: 120px;
+    margin-top: 60px;
+}
+.favorbody2 h1{
+    
+    text-align: left;
+    margin-left: 120px;
+    margin-top: 60px;
+}

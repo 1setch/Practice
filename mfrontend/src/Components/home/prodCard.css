@@ -1,0 +1,33 @@
+
+
+.prod_card{
+    
+    
+    height: 348px;
+    margin: 30px 25px ;
+}
+.prod_img{
+    width: 250px;
+    height: 250px;
+    background-color:#E9E9EB;
+    border-radius:40px;
+  
+    
+}
+.prod_price{
+    margin-top: 8px;
+    color:#FF2E2E;
+    font-weight:bold ;
+    font-size: 20px;
+}
+
+.prod_title{
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
+    /* width: 300px; */
+    width: 250px;
+    font-weight:bold ;
+    font-size: 20px;
+    color: #000;
+}

@@ -1,0 +1,50 @@
+
+
+.purc_card{
+    
+    display: grid;
+    grid-template-columns: 1fr 2fr 1fr;
+    height: 165px;
+    margin: 40px 150px ;
+}
+.purc_img{
+    width: 165px;
+    height: 165px;
+    background-color:rgb(191, 194, 194);
+    border-radius:40px;
+    display: block;
+    border: 1px solid #E9E9EB; 
+    
+}
+.purc_desc{
+    background-color:aliceblue;
+}
+.purc_price{
+    font-weight: bold ;
+    font-size: 20px;
+    color: #000;
+}
+
+.purc_title{
+    font-weight: bold ;
+    font-size: 16px;
+    color: #000;
+}
+a {
+    height: 165px;
+    width: 165px;
+}
+.del_button_fav{
+    width: 189px;
+    height: 40px;
+    margin-top: 8px;
+    border: none;
+    background-color:#FFB800;
+    color:white;
+    border-radius: 40em;
+    font-size: 14px;
+    font-weight: bold;
+    padding: 0;
+    margin-right: 9px;
+    cursor: pointer;
+}

@@ -1,0 +1,145 @@
+.prodbody{
+    width: 1200px;
+    height: 100%;
+    background-color: #fff;
+    margin: 45px auto;
+    border-radius: 40px;
+   
+    
+}
+
+
+.prod_title_body{
+    display: grid;
+    grid-template-columns:1fr 535px ;
+}
+.prod_title_img {
+    height: 24px;
+    width: 415px;
+    float: right;
+    margin: 67px auto;
+
+}
+.prod_title11{
+   
+   
+    font-weight:bold ;
+    font-size: 32px;
+    margin-top: 60px;
+    margin-left: 80px;
+}
+
+
+
+.prod_description{
+    display: grid;
+    grid-template-columns:1fr 535px ;
+    margin-right: 60px;
+    
+}
+
+.prod_description_img{
+    width: 465px;
+    height: 462px;
+    background-color:aqua;
+    border-radius:50px;
+    margin-left: 134px;
+  
+    border: 1px solid #E9E9EB; 
+    
+}
+/* .right_column{
+    background-color: aqua;
+} */
+
+.buy_button{
+    
+    width: 100%;
+    height: 75px;
+    margin-top: 8px;
+    border: none;
+    background-color:#FFB800;
+    color:white;
+    border-radius: 0em 0em 50px 50px;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 0;
+    
+    cursor: pointer;
+}
+.prod_price1{
+    margin-top: 8px;
+    color: black;
+    font-weight:700 ;
+    font-size: 36px;
+    text-align: center;
+}
+
+.prod_text{
+    border:1px solid #E9E9EB;
+    border-radius: 50px;
+    margin-top: 20px;
+}
+.prod_text p{
+    margin-left: 18px;
+    margin-right: 20px;
+}
+
+.prod_card1{
+    
+    width: 250px;
+    height: 348px;
+    margin: 30px 25px ;
+}
+
+
+.сharacteristics{
+ 
+    margin: 100px 116px;
+}
+.сharacteristics hr{
+    color:#8467FE;
+    border-top: 2px solid #8467FE;
+    width: 185px;
+    margin-left: 0;
+}
+h3{
+    margin-bottom: 0;
+    margin-left: 5px;
+}
+.review_section{
+ 
+    margin: 100px 116px 0 116px ;
+}
+.review_section hr{
+    color:#8467FE;
+    border-top: 2px solid #FE8767;
+    width: 185px;
+    margin-left: 0;
+}
+.buy_section{
+    border:1px solid #E9E9EB;
+    border-radius: 50px;
+    margin-left: 140px;
+}
+.prod_text{
+    margin-left: 140px;
+}
+.prod_img_section{
+    position: relative;
+}
+.prod_img_section .fav_icon{
+    border: none;
+    background-color:#FFB800;
+    padding: 0;
+    height: 50px;
+    right: 25px;
+    position: absolute;
+    top:25px;
+    cursor: pointer;
+}
+
+.review_section{
+    margin-top: 15px;
+    min-height: 100px;
+}

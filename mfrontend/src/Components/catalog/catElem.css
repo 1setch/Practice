@@ -1,0 +1,42 @@
+.cat_elem_body{
+    height: 200px;
+    width: 400px;
+    display: grid;
+    border-radius:40%;
+    margin-top: 40px;
+    border:1px solid #E9E9EB;
+    border-radius: 50px;
+}
+.cat_elem_body:hover{
+    height: 200px;
+    width: 400px;
+    display: grid;
+    border-radius:40%;
+    margin-top: 40px;
+    border:1px solid #8467FE;
+    border-radius: 50px;
+}
+
+.cat_elem_img{
+    margin-top: 20px;
+    margin-left: 5px;
+    height: 130px;
+    width: 370px;
+    border-radius:10%;
+    
+}
+
+.cat_elem_title{
+    display: block;
+    color:black;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    
+    width: 100%;
+
+}
+.cat_elem_body a{
+    height: 100px;
+    width: 400px;
+}

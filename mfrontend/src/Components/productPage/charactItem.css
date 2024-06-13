@@ -1,0 +1,29 @@
+.elems{
+    width: 260px;
+    display: block;
+    margin-top: 10px;
+}
+.grids{
+    display: grid;
+    grid-template-columns: 4fr 2fr;
+}
+.value{
+    text-align: right;
+    font-size: 16px;
+    font-weight: 700;
+    color:#8467FE;
+}
+.key{
+
+    font-size: 16px;
+    font-weight:500;
+}
+.box{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+.elems hr{
+    color:#E9E9EB;
+    border-top: 1px solid #E9E9EB;
+    width: 100%;
+}
